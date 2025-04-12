@@ -1,0 +1,26 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+#one {
+  background-color: aquamarine;
+}
+
+#table {
+  width: 100%;
+  background-color: black;
+}
+button {
+  color: aliceblue;
+  text-align: center;
+  background-color: seagreen;
+}
+/* Hide the previous button on the first page */
+/* Hide the previous button on the first page */
+#nano {
+  margin-top: 10px;
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
