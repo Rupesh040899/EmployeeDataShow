@@ -65,7 +65,7 @@ export default function App() {
         <span>{currentPage}</span>
 
         <button onClick={handleNextPage} disabled={currentPage >= 5}>
-          next
+          Next
         </button>
       </div>
     </div>
