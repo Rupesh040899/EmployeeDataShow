@@ -18,7 +18,7 @@ export default function App() {
         const remoteData = await response.json();
         setData(remoteData);
       } catch (error) {
-        alert("Error fetching data:" + error);
+        alert("failed to fetch data");
       }
     };
     fetchData();
